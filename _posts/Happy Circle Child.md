@@ -6,6 +6,8 @@ description: 歡樂圓童 Happy Circle Child
 keywords: 字體, Font, 字体, フォント
 ---
 
+# 歡樂圓童 Happy Circle Child 最新進度 latest Progress
+
 https://www.youtube.com/watch?v=xUqfmAkOvys&list=PLwmlGV_pn1r2MLKX86BSsRFHG1jmcYLwk
 
 我叫他歡樂圓童，用RocknRoll One修改，我看這個字體非常適合兒童，我覺得非常可愛，台灣沒有這種免費商用字體，所以我想試改這個字體
