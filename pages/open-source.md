@@ -12,8 +12,8 @@ permalink: /open-source/
 <section class="container">
     <header class="text-center">
         <h1>項目 Project</h1>
-        <p class="lead">I have <span class="repo-count">{{ sorted_repos.size }}</span> projects on Github</p>
         <p class="lead">我在Github有<span class="repo-count">{{ sorted_repos.size }}</span>個項目</p>
+        <p class="lead">I have <span class="repo-count">{{ sorted_repos.size }}</span> projects on Github</p>
     </header>
     <div class="repo-list">
         <!-- Check here for github metadata -->
