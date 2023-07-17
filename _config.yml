@@ -70,38 +70,37 @@ email: fwhp0424@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: 首頁 Home
     
   -
     href: /about/
-    label: 關於
+    label: 關於 About
     
   -
     href: /categories/
-    label: 分類
+    label: 分類 Classify
 
   -
     href: /archives/
-    label: 存檔
+    label: 存檔 Archives
     mobile-hidden: true
 
   -
     href: /open-source/
-    label: 項目
+    label: 項目 Project
     mobile-hidden: true
-
-  -
-    href: /fragments/
-    label: 片段
-    mobile-hidden: false
     
   -
     href: /wiki/
-    label: 問題
+    label: 問題 F&Q
+
+  -
+    href: /fragments/
+    label: 感謝名單 Thanks Iist
 
   -
     href: /links/
-    label: 鏈結
+    label: 友情鏈結 Friendship Link
     mobile-hidden: true
 
 # ---------------- #
