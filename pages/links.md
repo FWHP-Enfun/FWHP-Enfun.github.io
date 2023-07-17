@@ -8,22 +8,6 @@ menu: 友情鏈結 Friendship Link
 permalink: /links/
 ---
 
-> God made relatives. Thank God we can choose our friends.
+https://www.facebook.com/groups/549661292148791
 
-<ul>
-{% for link in site.data.links %}
-  {% if link.src == 'life' %}
-  <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
-
-> 友情链接
-
-<ul>
-{% for link in site.data.links %}
-  {% if link.src == 'www' %}
-  <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
+https://www.maoken.com/
