@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://fwhp-enfun.github.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 花樂 FWHP
+subtitle: "花樂娛樂 FWHP Enfun"
+description: "花樂娛樂 FWHP Enfun Github.io"
+keywords: 花樂, FWHP, 遊戲, 字體, 畫畫, Font
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2022~2030
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: FWHP-Enfun/FWHP-Enfun.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -28,7 +28,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: false
-        start_date: 2020-05-03
+        start_date: 2022-01-01
     # My Popular Repositories
     side_bar_repo:
         enabled: true
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: 
-organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: 花樂 FWHP
+organization: 我的網站 My WebSite
+organization_url: https://fwhp-art.carrd.co/
+github_username: fwhp-enfun
+location: Taiwan, Kaohsiung
+email: fwhp0424@gmail.com
 
 # ---------------- #
 #    Navigation    #
