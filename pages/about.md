@@ -1,41 +1,35 @@
 ---
 layout: page
-title: About
+title: 自我介紹
 description: 打码改变世界
 keywords: Zhuang Ma, 马壮
 comments: true
-menu: 关于
+menu: 自我介紹
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+你好，歡迎來到花樂娛樂ヾ(≧▽≦)o
+Hello, welcome FWHP Enfunヾ(≧▽≦)o
 
-仰慕「优雅编码的艺术」。
+這裡有各式各樣的藝術作品，我會給你像花朵一樣的快樂
+There are all kinds of works of art here, I will give you joy like flowers
 
-坚信熟能生巧，努力改变人生。
+名字：洪蕙琳
+HONG HUI LIN
+我是獨立的自由藝術家
+I am an independent freelance artist
 
-## 联系
+我的夢想是想要帶給人們的快樂(❁´◡`❁)
+My dream is to bring happiness to people
+
+(❁´◡`❁)
+
+## 聯繫
 
 <ul>
-{% for website in site.data.social %}
-<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
-{% endfor %}
-{% if site.url contains 'mazhuang.org' %}
-<li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
-</li>
-{% endif %}
+# 測試
+  
 </ul>
 
 
 ## Skill Keywords
-
-{% for skill in site.data.skills %}
-### {{ skill.name }}
-<div class="btn-inline">
-{% for keyword in skill.keywords %}
-<button class="btn btn-outline" type="button">{{ keyword }}</button>
-{% endfor %}
-</div>
-{% endfor %}
