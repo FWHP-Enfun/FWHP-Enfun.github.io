@@ -7,10 +7,8 @@ keywords: 花樂 FWHP 自我介紹 Self Introduction 介紹 About
 topmost: true
 ---
 
-<div align="center">
-
-## 你好，我是花樂，是個熱愛畫畫的研究師
-## Hello, I am FWHP, a researcher who loves painting
+# 你好，我是花樂，是個熱愛畫畫的研究師
+# Hello, I am FWHP, a researcher who loves painting
 
 https://www.youtube.com/watch?v=GFs2GQFcWGI&list=PLwmlGV_pn1r3N0vowdxg0LnqD1FNPO7Jt&pp=gAQBiAQB
 
@@ -42,25 +40,25 @@ github的字體全部不可以盜賣字體，千萬別冒貪財的險，避免�
 
 All fonts on github are not allowed to steal and sell fonts, don’t take the risk of being greedy for money, avoid troublesome lawsuits, and pay more fines
   
-## 我自己創作的字體版權：Font copyright created by myself
+# 我自己創作的字體版權：Font copyright created by myself
 
 全部屬於自己，是SIL Open Font License 1.1授權
 
 All belong to myself, authorized by SIL Open Font License 1.1
 
-## 別人委託我的開源字體版權：Others entrust my open source font copyright
+# 別人委託我的開源字體版權：Others entrust my open source font copyright
 
 版權屬於我和委託者，是SIL Open Font License 1.1授權
 
 The copyright belongs to me and the commissioner, authorized by SIL Open Font License 1.1
 
-## 我修改的開源字體版權：The copyright of the open source font I modified
+# 我修改的開源字體版權：The copyright of the open source font I modified
 
 版權屬於字體公司和我（參與改字的人），授權大部份是SIL Open Font License 1.1
 
 The copyright belongs to the font company and me (the person who changed the characters), most of the authorization is SIL Open Font License 1.1
 
-## 字體進度 Font progress：
+# 字體進度 Font progress：
   
 []()
 
@@ -79,7 +77,7 @@ The copyright belongs to the font company and me (the person who changed the cha
   
 隨思風楷 SuiSi FengKai(未完成 undone)
 
-## 自己製作 Produce Their Own
+# 自己製作 Produce Their Own
 
 [花樂缺漢字 FWHP no CJK](https://github.com/FWHP-Enfun/FWHP-no-CJK)
 
@@ -88,7 +86,7 @@ The copyright belongs to the font company and me (the person who changed the cha
 花樂雜寫草草 FWHP Mgrass(未完成 undone)、
 花樂繁繁體 FWHP TTC(未完成 undone)
 
-## 注意 Notice
+# 注意 Notice
 
 https://github.com/FWHP-Enfun/Waiting-Manage-Font
 
