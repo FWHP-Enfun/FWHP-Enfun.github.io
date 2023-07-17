@@ -1,10 +1,10 @@
 ---
 layout: categories
-title: 分類
+title: 分類 Classify
 description: 
-keywords: 分類
+keywords: 分類 Classify
 comments: false
-menu: 分類
+menu: 分類 Classify
 permalink: /categories/
 ---
 
