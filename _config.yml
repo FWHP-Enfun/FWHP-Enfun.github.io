@@ -24,7 +24,7 @@ components:
     # weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
     share:
         enabled: false
-        hide-platforms: qq,facebook
+        hide-platforms: weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
     # 不蒜子访问统计
     busuanzi:
         enabled: false
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 闷骚的程序员
+        image_alt: 我的網站 My Qrcode
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -71,37 +71,38 @@ navs:
   -
     href: /
     label: 首页
-
+    
+  -
+    href: /about/
+    label: 關於
+    
   -
     href: /categories/
-    label: 分类
+    label: 分類
 
   -
     href: /archives/
-    label: 归档
+    label: 存檔
     mobile-hidden: true
 
   -
     href: /open-source/
-    label: 开源
+    label: 項目
     mobile-hidden: true
 
   -
     href: /fragments/
     label: 片段
-
+    mobile-hidden: true
+    
   -
     href: /wiki/
-    label: 维基
+    label: 問題
 
   -
     href: /links/
-    label: 链接
+    label: 鏈結
     mobile-hidden: true
-
-  -
-    href: /about/
-    label: 关于
 
 # ---------------- #
 #       RSS        #
