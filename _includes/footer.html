@@ -31,7 +31,7 @@
         </div>
     </footer>
     <div class="tools-wrapper">
-      <a class="gotop" href="#" title="回到顶部"><span class="octicon octicon-arrow-up"></span></a>
+      <a class="gotop" href="#" title="回到頂部 Back Top"><span class="octicon octicon-arrow-up"></span></a>
     </div>
     <!-- / footer -->
     {% if site.components.share.enabled %}
@@ -125,7 +125,7 @@ $(document).ready(function(){
     viewerTipNode.setAttribute('href', '{{ site.url }}/mindmap-viewer/?data=' + encodeURIComponent(markdownText));
     viewerTipNode.setAttribute('target', '_blank');
     viewerTipNode.setAttribute('style', 'font-size:0.8rem;font-style:italic;font-color:grey;');
-    viewerTipNode.innerText = '全屏查看';
+    viewerTipNode.innerText = '全屏查看 View Full Screen';
     parentNode.insertBefore(viewerTipNode, element.parentNode);
 
     element.parentNode.style.display = 'none';
@@ -212,13 +212,13 @@ $(document).ready(function(){
                 var nodeName = '.language-mindmap-' + index;
                 element.setAttribute("id", nodeName);
                 var viewerTipNode1 = document.createElement("a");
-                viewerTipNode1.appendChild(document.createTextNode("全屏"));
+                viewerTipNode1.appendChild(document.createTextNode("全螢幕 Full Screen"));
                 viewerTipNode1.setAttribute('onclick', 'fullScreen("' + nodeName + '")');
                 viewerTipNode1.setAttribute('style', 'font-size:0.8rem;font-style:italic;font-color:grey;');
                 viewerTipNode1.setAttribute('href', 'javascript:void(0)');
                 insertAfter(viewerTipNode1, element.parentNode);
                 var viewerTipNode2 = document.createElement("a");
-                viewerTipNode2.appendChild(document.createTextNode("语法提示"));
+                viewerTipNode2.appendChild(document.createTextNode("語法提示 Grammar Hint"));
                 viewerTipNode2.setAttribute('href', 'https://markmap.js.org/');
                 viewerTipNode2.setAttribute('target', '_blank');
                 viewerTipNode2.setAttribute('style', 'font-size:0.8rem;font-style:italic;font-color:grey;padding-left:0.5rem;');
