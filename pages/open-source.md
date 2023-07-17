@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Open Source Projects
-keywords: 开源,open-source,GitHub,开源项目
-description: 开源改变世界。
+title: 項目 Project
+keywords: 開源,open-source,GitHub,開源項目
+description: 項目 Project
 permalink: /open-source/
 ---
 
@@ -11,8 +11,9 @@ permalink: /open-source/
 
 <section class="container">
     <header class="text-center">
-        <h1>Open Source Projects</h1>
+        <h1>項目 Project</h1>
         <p class="lead">I have <span class="repo-count">{{ sorted_repos.size }}</span> projects on Github</p>
+        <p class="lead">我在Github有<span class="repo-count">{{ sorted_repos.size }}</span>個項目</p>
     </header>
     <div class="repo-list">
         <!-- Check here for github metadata -->
