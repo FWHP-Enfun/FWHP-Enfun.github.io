@@ -9,13 +9,13 @@ keywords: 字體, Font, 字体, フォント
 
 # 漢源毛楷 HanYuan MaoKaii 最新進度 latest Progress
 
-https://www.youtube.com/watch?v=wy1L7p3b56c&list=PLwmlGV_pn1r2Sa3Y-BdHGiemiVp7uV140
+[https://www.youtube.com/watch?v=wy1L7p3b56c&list=PLwmlGV_pn1r2Sa3Y-BdHGiemiVp7uV140](https://www.youtube.com/watch?v=wy1L7p3b56c&list=PLwmlGV_pn1r2Sa3Y-BdHGiemiVp7uV140)
 
 我叫他漢源毛楷，用Ma Shan Zheng修改，這是毛筆畫的字體，在開源字體網站（Google Fonts）找到稀有的毛筆中文字體，到現在沒有人做成繁字，我想要挑戰看看把簡體變成繁體，我不擅長書法，有些風格看起不一或字很方正，沒關係至少我有嘗試～
 
 My name is HanYuan MaoKaii, and I modified it with Ma Shan Zheng. This is a brush-painted font. I found a rare Chinese brush font on the open source font website (Google Fonts). Until now, no one has made complex characters. I want to challenge it. Look at changing simplified Chinese to traditional Chinese. I'm not good at calligraphy. Some styles look different or the characters are very square. It doesn't matter. At least I have tried~
 
-https://fonts.google.com/specimen/Ma+Shan+Zheng
+[https://fonts.google.com/specimen/Ma+Shan+Zheng](https://fonts.google.com/specimen/Ma+Shan+Zheng)
 
 Ma Shan Zheng，中文名是馬善政毛筆楷書，公司是鐘齊字庫
 
