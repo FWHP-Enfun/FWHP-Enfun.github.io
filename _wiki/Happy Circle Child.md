@@ -1,7 +1,8 @@
 ---
 layout: wiki
 title: 歡樂圓童 Happy Circle Child 最新進度 latest Progress
-categories: 字體, Font, 字体, フォント
+cate1: 字體 Font
+cate2:
 description: 歡樂圓童 Happy Circle Child
 keywords: 字體, Font, 字体, フォント
 ---
