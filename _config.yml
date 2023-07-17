@@ -93,7 +93,7 @@ navs:
   -
     href: /fragments/
     label: 片段
-    mobile-hidden: true
+    mobile-hidden: false
     
   -
     href: /wiki/
