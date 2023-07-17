@@ -1,7 +1,8 @@
 ---
 layout: wiki
 title: 漢源毛楷 HanYuan MaoKaii 最新進度 latest Progress
-categories: 字體, Font, 字体, フォント
+cate1: 字體 Font
+cate2:
 description: 漢源毛楷 HanYuan MaoKaii
 keywords: 字體, Font, 字体, フォント
 ---
