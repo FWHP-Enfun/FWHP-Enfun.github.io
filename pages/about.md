@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 自我介紹
+title: 關於我 About
 description: 花樂娛樂 FWHP Enfun
 keywords: 花樂, FWHP, 遊戲, 字體, 畫畫, Font
 comments: true
-menu: 自我介紹
+menu: 關於我 About
 permalink: /about/
 ---
 
