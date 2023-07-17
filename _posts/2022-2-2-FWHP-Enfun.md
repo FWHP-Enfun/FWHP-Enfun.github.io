@@ -1,16 +1,16 @@
 ---
 layout: post
 title: 自我介紹 Self Introduction
-categories: 花樂, FWHP, 自我介紹, Self Introduction, 介紹, About
+categories: 花樂 FWHP 自我介紹 Self Introduction 介紹 About
 description: 自我介紹 Self Introduction
-keywords: 花樂, FWHP, 自我介紹, Self Introduction, 介紹, About
+keywords: 花樂 FWHP 自我介紹 Self Introduction 介紹 About
 topmost: true
 ---
 
 <div align="center">
 
-# 你好，我是花樂，是個熱愛畫畫的研究師
-# Hello, I am FWHP, a researcher who loves painting
+## 你好，我是花樂，是個熱愛畫畫的研究師
+## Hello, I am FWHP, a researcher who loves painting
 
 https://www.youtube.com/watch?v=GFs2GQFcWGI&list=PLwmlGV_pn1r3N0vowdxg0LnqD1FNPO7Jt&pp=gAQBiAQB
 
@@ -60,7 +60,7 @@ The copyright belongs to me and the commissioner, authorized by SIL Open Font Li
 
 The copyright belongs to the font company and me (the person who changed the characters), most of the authorization is SIL Open Font License 1.1
 
-# 字體進度 Font progress：
+## 字體進度 Font progress：
   
 []()
 
@@ -79,7 +79,7 @@ The copyright belongs to the font company and me (the person who changed the cha
   
 隨思風楷 SuiSi FengKai(未完成 undone)
 
-# 自己製作 Produce Their Own
+## 自己製作 Produce Their Own
 
 [花樂缺漢字 FWHP no CJK](https://github.com/FWHP-Enfun/FWHP-no-CJK)
 
@@ -88,7 +88,7 @@ The copyright belongs to the font company and me (the person who changed the cha
 花樂雜寫草草 FWHP Mgrass(未完成 undone)、
 花樂繁繁體 FWHP TTC(未完成 undone)
 
-# 注意 Notice
+## 注意 Notice
 
 https://github.com/FWHP-Enfun/Waiting-Manage-Font
 
